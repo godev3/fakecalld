@@ -6,12 +6,12 @@
       "admob_inter": "",
       "admob_native": "",
       "startappid": "202327080",
-      "select_ads": "STARTAPP",
+      "select_ads": "APPLOVIN",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
       "packagename": "com.zv.KimSoekJinfakeVideoCall",
-      "interval":5
+      "interval":0
       }
    ],
 
