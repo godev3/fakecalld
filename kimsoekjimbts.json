@@ -5,11 +5,11 @@
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       "admob_inter": "",
       "admob_native": "",
-      "startappid": "202327080",
-      "select_ads": "STARTAPP",
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner_native": "YOUR_PLACEMENT_ID",
-      "fan_native": "YOUR_PLACEMENT_ID",
+      "startappid": "",
+      "select_ads": "APPLOVIN",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "fan_native": "",
       "packagename": "com.zv.KimSoekJinfakeVideoCall",
       "interval":0
       }
